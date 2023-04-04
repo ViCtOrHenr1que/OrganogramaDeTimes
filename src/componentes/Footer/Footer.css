@@ -1,0 +1,26 @@
+.footer {
+    background-color: #5068F1;
+    display: flex;
+    justify-content: space-around;
+    height: 16rem;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.footer .social-links {
+    display: flex;
+    justify-content: space-between;
+    gap: 64px;
+    cursor: pointer;
+}
+
+.footer .logo-footer{
+cursor: pointer;
+}
+
+.footer .text-footer {
+    font-size: 24px;
+    color: white;
+    font-weight: 600;
+}
+
