@@ -210,7 +210,7 @@ function App() {
     },
     {
       id: uuidv4(),
-      nome: "Victor",
+      nome: "Victorr",
       favorito: false,
       cargo: "Desenvolvedor FullStack",
       imagem: "https://github.com/ViCtOrHenr1que.png",
